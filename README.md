@@ -53,12 +53,6 @@ NumPy, Pandas, scikit-learn, PyTorch, SQL
 
 ---
 
-## 📈 Stats
-
-![Maximus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximus&show_icons=true&theme=radical)
-
----
-
 ### 🌐 Contacts
 
 - 📬 Telegram: @Maximus
