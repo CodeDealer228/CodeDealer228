@@ -17,29 +17,21 @@
 - Python, PyTorch, Hugging Face Transformers, LangChain, LangGraph, LlamaIndex, OpenAI API, Anthropic API, vLLM, Text Generation Inference (TGI), FAISS, Qdrant, Weaviate, Elasticsearch, NumPy, Pandas, Docker, Linux, Git, Jupyter Notebook.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph.png" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-
-  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/img/faiss-logo.png" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/PyTorch-ffffff?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-ffffff?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LangGraph-ffffff?style=for-the-badge&logo=langgraph&logoColor=000000" />
+  <img src="https://img.shields.io/badge/OpenAI-ffffff?style=for-the-badge&logo=openai&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Anthropic-ffffff?style=for-the-badge&logo=anthropic&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Qdrant-ffffff?style=for-the-badge&logo=qdrant&logoColor=DC244C" />
+  <img src="https://img.shields.io/badge/Weaviate-ffffff?style=for-the-badge&logo=weaviate&logoColor=00B4FF" />
+  <img src="https://img.shields.io/badge/Elasticsearch-ffffff?style=for-the-badge&logo=elasticsearch&logoColor=005571" />
+  <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
+
 
 ## Контакты
 - Telegram:
