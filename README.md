@@ -14,7 +14,7 @@
 - ИИ-агенты для автоматизации интеллектуальных рабочих процессов и взаимодействия с внешними инструментами.
 
 ## Используемые инструменты
-## Используемые инструменты
+- Python, PyTorch, Hugging Face Transformers, LangChain, LangGraph, LlamaIndex, OpenAI API, Anthropic API, vLLM, Text Generation Inference (TGI), FAISS, Qdrant, Weaviate, Elasticsearch, NumPy, Pandas, Docker, Linux, Git, Jupyter Notebook.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
