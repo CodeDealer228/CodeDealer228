@@ -1,64 +1,46 @@
-# 👋 Hi, I'm Maximus!
+# NLP Engineer
 
-🎓 I'm a student at ITMO University (Faculty of Artificial Intelligence Technologies).  
-🚀 I specialize in Data Science and love solving complex problems with code and mathematics.
+Инженер по обработке естественного языка. Разрабатываю решения на базе больших языковых моделей: ИИ-агентов и RAG-систем для поиска, анализа и генерации текстовой информации.
 
----
+## Профессиональный профиль
+- Проектирую и разрабатываю NLP-решения на базе LLM для прикладных задач.
+- Создаю ИИ-агентов с инструментами, памятью, маршрутизацией и контролем поведения.
+- Строю Retrieval-Augmented Generation (RAG) системы: от подготовки данных до оценки качества ответов.
+- Интегрирую модели в прикладные сервисы и пайплайны обработки данных.
 
-## 📚 About Me
+## Основные направления работы
+- **ИИ-агенты:** orchestration, tool calling, memory, routing, guardrails  
+- **RAG-системы:** индексация, chunking, embedding, retrieval, reranking, генерация ответов  
+- **LLM-инференс:** облачные и локальные модели, оптимизация и масштабирование  
+- **Оценка качества:** автоматические и эвристические метрики, error analysis
 
-- 💻 I study:
-  - Algorithms & Data Structures
-  - Computer Systems Architecture
-  - Programming for Data Science
-  - Mathematics, including Mathematical Analysis and Linear Algebra
+## Технологический стек
+**LLM / Agents**
+- LangChain, LangGraph
+- LlamaIndex
+- OpenAI API, Anthropic API
+- Локальные LLM: vLLM, Text Generation Inference (TGI)
 
----
+**RAG и поиск**
+- Vector DB: FAISS, Qdrant, Weaviate, Elasticsearch
+- Dense и hybrid retrieval, reranking
 
-## 🛠️ Programming Languages
+**ML / NLP**
+- Hugging Face Transformers, Hugging Face Hub
+- PyTorch
+- scikit-learn  
+- NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>, Pandas
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-</p>
-Python, C
+**Инфраструктура**
+- Docker, Linux
+- Git / GitHub
+- Jupyter Notebook
 
----
+## Проекты
+- RAG-системы для поиска и анализа знаний в корпоративных и продуктовых сценариях.
+- ИИ-агенты для автоматизации интеллектуальных рабочих процессов и взаимодействия с внешними инструментами.
 
-## ⚙️ Technologies & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/>
-</p>
-Git, GitHub, Docker, Linux, VS Code, Jupyter Notebook, Google Colab
-
----
-
-## 🧰 Data Science Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</p>
-NumPy, Pandas, scikit-learn, PyTorch, SQL
-
----
-
-### 🌐 Contacts
-
-- 📬 Telegram: @Maximus
-- 💼 LinkedIn:  Maximus
-- Facebook : Maximus
-
----
-
-Feel free to connect or explore my repositories!
+## Контакты
+- Telegram:
+- LinkedIn:
+- Facebook:
