@@ -14,27 +14,32 @@
 - ИИ-агенты для автоматизации интеллектуальных рабочих процессов и взаимодействия с внешними инструментами.
 
 ## Используемые инструменты
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+## Используемые инструменты
 
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph.png" width="40" height="40"/>  
-<img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="40" height="40"/>  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
 
-<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="40" height="40"/>  
-<img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="40" height="40"/>  
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph.png" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
 
-<img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/img/faiss-logo.png" width="40" height="40"/>  
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>  
-<img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/img/faiss-logo.png" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" style="margin:6px; background:#ffffff; padding:6px; border-radius:8px;" />
+</p>
 
 ## Контакты
 - Telegram:
