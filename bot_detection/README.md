@@ -86,14 +86,22 @@
 
  Подход - LogLoss :
 
- Простые фичи  ~0.4
- TF-IDF  ~0.38 
+ Простые фичи  ~0.35
+ TF-IDF  ~0.32 
  Word2Vec  ~0.4 
  FastText  ~0.44 
- BERT embeddings  ~0.42 
- PPL only  ~0.45–0.50 
+ BERT embeddings  ~0.39 
+ PPL only  ~0.4–0.50 
 
- **Ансамбль**  **≈ 0.354** 
+ **Ансамбль**:
+- Logloss 0.29
+- Accuracy 0.88
+- Bot Precision 0.97
+- Bot Recall 0.8
+- Human Recall 0.97
+- Human Precision 0.82
+- Human f1 0.89
+- Bot f1 0.87
 
 ---
 
