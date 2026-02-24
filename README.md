@@ -1,20 +1,19 @@
 # NLP Engineer
 
-Инженер по обработке естественного языка. Разрабатываю прикладные решения на базе больших языковых моделей: ИИ-агентов и RAG-систем для поиска, анализа и генерации текстовой информации.
+Инженер машинного обучения, специализируюсь на обработке естественного языка.
 
 ## Чем занимаюсь
-- Проектирую и разрабатываю ИИ-агентов на Python с использованием LangChain и LangGraph на базе LLM (OpenAI, Anthropic, локальные модели через vLLM и Text Generation Inference).
-- Создаю Retrieval-Augmented Generation (RAG) системы с применением LlamaIndex, embedding-моделей и гибридного поиска, включая dense retrieval, reranking и генерацию ответов.
-- Строю векторные и гибридные поисковые решения с использованием FAISS, Qdrant, Weaviate и Elasticsearch.
-- Работаю с трансформер-моделями через Hugging Face Transformers и PyTorch: адаптация, инференс и оптимизация.
-- Интегрирую NLP-модели в прикладные сервисы и пайплайны, обеспечивая воспроизводимость и стабильность решений (Docker, Linux, Git).
+- Проектирую и разрабатываю ИИ-агентов на Python с использованием LangChain и LangGraph на базе LLM (OpenAI API, локальные Open-Source модели)
+- Создаю RAG системы с применением векторных и графовых баз данных для поиска по базе документов и генерации текста на основе актуального контекста.
+- Работаю с трансформер-моделями через Hugging Face Transformers и PyTorch: адаптация, Fine-Tuning, инференс и оптимизация.
+- Интегрирую NLP-модели в прикладные сервисы и пайплайны, обеспечивая воспроизводимость и стабильность решений (FastAPi, Docker, Linux, Git).
 
 ## Проекты
 - RAG-системы для поиска и анализа знаний в корпоративных и продуктовых сценариях.
-- ИИ-агенты для автоматизации интеллектуальных рабочих процессов и взаимодействия с внешними инструментами.
+- ИИ-агенты с инструментами веб-поиска и базами данных для автоматизации интеллектуальных процессов.
 
 ## Используемые инструменты
-- Python, PyTorch, Hugging Face Transformers, LangChain, LangGraph, LlamaIndex, OpenAI API, Anthropic API, vLLM, Text Generation Inference (TGI), FAISS, Qdrant, Weaviate, Elasticsearch, NumPy, Pandas, Docker, Linux, Git, Jupyter Notebook.
+- Python, PyTorch, Hugging Face Transformers, LangChain, LangGraph, OpenAI API, Anthropic API, vLLM, Text Generation Inference (TGI), FAISS, Qdrant, Weaviate, Elasticsearch, NumPy, Pandas, Docker, Linux, Git, Jupyter Notebook.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -37,3 +36,4 @@
 - Telegram:
 - LinkedIn:
 - Facebook:
+
