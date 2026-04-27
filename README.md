@@ -15,19 +15,11 @@
 - Python, PyTorch, Hugging Face Transformers, LangChain, LangGraph, OpenAI API, Anthropic API, vLLM, Text Generation Inference (TGI), FAISS, Qdrant, Weaviate, Elasticsearch, NumPy, Pandas, Docker, Linux, Git, Jupyter Notebook.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/PyTorch-ffffff?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-ffffff?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-  <img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=000000" />
-  <img src="https://img.shields.io/badge/LangGraph-ffffff?style=for-the-badge&logo=langgraph&logoColor=000000" />
-  <img src="https://img.shields.io/badge/OpenAI-ffffff?style=for-the-badge&logo=openai&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Anthropic-ffffff?style=for-the-badge&logo=anthropic&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Qdrant-ffffff?style=for-the-badge&logo=qdrant&logoColor=DC244C" />
-  <img src="https://img.shields.io/badge/Weaviate-ffffff?style=for-the-badge&logo=weaviate&logoColor=00B4FF" />
-  <img src="https://img.shields.io/badge/Elasticsearch-ffffff?style=for-the-badge&logo=elasticsearch&logoColor=005571" />
-  <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=for-the-badge&logo=huggingface&logoColor=000000" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00B4B6" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CodeDealer228)
