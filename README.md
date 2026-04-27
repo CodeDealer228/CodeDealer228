@@ -1,7 +1,6 @@
 # NLP Engineer
 
 Инженер машинного обучения, специализируюсь на обработке естественного языка.
-![LeetCode Stats](https://leetcard.jacoblin.cool/CodeDealer228)
 ## Чем занимаюсь
 - Проектирую и разрабатываю ИИ-агентов на Python с использованием LangChain и LangGraph на базе LLM (OpenAI API, локальные Open-Source модели)
 - Создаю RAG системы с применением векторных и графовых баз данных для поиска по базе документов и генерации текста на основе актуального контекста.
@@ -31,6 +30,7 @@
   <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/CodeDealer228)
 
 ## Контакты
 - Telegram:
