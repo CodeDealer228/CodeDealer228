@@ -23,9 +23,6 @@
 </p>
 
 
-## LeetCode профиль
-[![NeetCode](https://leetcode-badge-sage.vercel.app/badge/neetcode?theme=light)](https://leetcode.com/neetcode/)
-
 ## Контакты
 - Telegram:
 - LinkedIn:
