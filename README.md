@@ -24,7 +24,7 @@
 
 
 ## LeetCode профиль
-![LeetCode Stats](https://leetcard.jacoblin.cool/CodeDealer228)
+[![NeetCode](https://leetcode-badge-sage.vercel.app/badge/neetcode?theme=light)](https://leetcode.com/neetcode/)
 
 ## Контакты
 - Telegram:
